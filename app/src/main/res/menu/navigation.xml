@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+            android:id="@+id/navigation_tomorse"
+            android:icon="@drawable/ic_morse"
+            android:title="@string/title_texttomorse"/>
+
+    <item
+            android:id="@+id/navigation_info"
+            android:icon="@drawable/ic_morse_info"
+            android:title="@string/title_info"/>
+
+    <item
+            android:id="@+id/navigation_settings"
+            android:icon="@drawable/ic_settings"
+            android:title="@string/title_settings"/>
+
+</menu>

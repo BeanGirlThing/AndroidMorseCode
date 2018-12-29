@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MorseCode</string>
+    <string name="title_texttomorse">To Morse</string>
+    <string name="title_info">Morse Info</string>
+    <string name="title_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="input_text">Input Text</string>
+    <string name="switch_twofive">0.25</string>
+    <string name="unit_speed_ms">Unit Speed (Sec)</string>
+    <string name="Switch_FiveZero">0.50</string>
+    <string name="Switch_SevenFive">0.75</string>
+    <string name="play">Play Sequence</string>
+</resources>
