@@ -7,3 +7,5 @@ This app takes a user inputted string, converts it to morse code then plays it o
 
 
 #### App still in development, expect bugs
+
+APK file link in wiki
